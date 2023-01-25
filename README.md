@@ -1,0 +1,3 @@
+# latiangit
+
+latihan menggunakan git
