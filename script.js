@@ -1,5 +1,7 @@
-let clickMe = document.getElementById("clickMe");
-
 clickMe = () => {
-  document.writeln("sudah klik tombol ini");
+  document.getElementById("clickMe").innerHTML = "sudah diklik";
+};
+
+deleteMe = () => {
+  document.getElementById("clickMe").innerHTML = "";
 };
